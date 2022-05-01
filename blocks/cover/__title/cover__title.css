@@ -6,19 +6,19 @@
     font-size: 72px;
     line-height: 76px;
     text-align: center;
-    padding: 245px 312px 0 312px;
+    padding: 245px 312px 0;
     z-index: 1;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover__title {
-        padding: 195px 232px 0 232px;
+        padding: 195px 232px 0;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .cover__title {
-        padding: 115px 104px 0 104px;
+        padding: 115px 104px 0;
     }
 }
 
@@ -26,6 +26,6 @@
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        padding: 33px 16px 0 16px;
+        padding: 33px 16px 0;
     }
 }
