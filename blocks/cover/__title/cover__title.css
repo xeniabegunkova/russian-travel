@@ -6,19 +6,26 @@
     font-size: 72px;
     line-height: 76px;
     text-align: center;
-    padding: 245px 312px 0;
+    padding-left: 312px;
+    padding-right: 312px;
+    padding-top: 245px;
+    padding-bottom: 0;
     z-index: 1;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover__title {
-        padding: 195px 232px 0;
+        padding-left: 232px;
+        padding-right: 232px;
+        padding-top: 195px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .cover__title {
-        padding: 115px 104px 0;
+        padding-left: 104px;
+        padding-right: 104px;
+        padding-top: 115px;
     }
 }
 
@@ -26,6 +33,8 @@
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        padding: 33px 16px 0;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 33px;
     }
 }

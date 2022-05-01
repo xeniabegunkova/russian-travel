@@ -6,19 +6,26 @@
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    padding: 32px 412px 245px;
+    padding-left: 412px;
+    padding-right: 412px;
+    padding-top: 32px;
+    padding-bottom: 245px;
     z-index: 1;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover__subtitle {
-        padding: 32px 332px 195px;
+        padding-left: 332px;
+        padding-right: 332px;
+        padding-bottom: 195px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .cover__subtitle {
-        padding: 32px 204px 115px;
+        padding-left: 204px;
+        padding-right: 204px;
+        padding-bottom: 115px;
     }
 }
 
@@ -26,6 +33,9 @@
     .cover__subtitle {
         font-size: 14px;
         line-height: 16px;
-        padding: 16px 16px 33px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 16px;
+        padding-bottom: 33px;
     }
 }
