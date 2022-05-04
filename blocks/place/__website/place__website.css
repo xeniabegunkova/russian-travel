@@ -5,3 +5,12 @@
     font-style: normal;
     align-self: end;
 }
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        padding-right: 16px;
+        padding-left: 16px;
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+}

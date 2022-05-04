@@ -1,9 +1,9 @@
-.header__lang-links {
+.header__lang-item {
     margin: 0;
     padding: 0;
     padding-right: 18px;
 }
 
-.header__lang-links:last-child {
+.header__lang-item:last-child {
     padding-right: 0;
 }

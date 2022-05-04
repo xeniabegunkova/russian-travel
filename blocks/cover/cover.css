@@ -8,10 +8,8 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover {
-        padding: 0 0 92px;
         padding-left: 0;
         padding-right: 0;
-        padding-bottom: 92px;
     }
 }
 
