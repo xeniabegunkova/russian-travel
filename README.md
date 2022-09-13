@@ -13,4 +13,4 @@
 7. Анимация и трансформация
 
 ### Открытие проекта :earth_asia:
-Клонируйте репозиторий: 
+Клонируйте репозиторий: git@github.com:xeniabegunkova/russian-travel.git
